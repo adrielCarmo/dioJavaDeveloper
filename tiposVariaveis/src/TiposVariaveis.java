@@ -9,5 +9,15 @@ public class TiposVariaveis {
         float PI = 3.1415F;
         double salario = 1275.33;
 
+        short numeroCurto = 1;
+        int numeroNormal = numeroCurto;
+        short numeroCurto2 = (short) numeroNormal; // não é possível fazer isso, pois o tipo short não comporta a possível precisão do tipo int
+
+        // CONSTANTES
+        final double PI = 3.1415;
+        
+        // VARIÁVEIS
+        char nome = 'a';
+        String meuNome = "Adriel Carmo";
     }
 }
