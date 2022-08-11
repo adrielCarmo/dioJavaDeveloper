@@ -8,7 +8,7 @@ public class TiposVariaveis {
         long cpf = 98567432422L; // se começar com 0, o número será desconsiderado na compilação
         float OUTRO_PI = 3.1415F;
         double salario = 1275.33;
-
+        
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         // short numeroCurto2 = numeroNormal; // não é possível fazer isso, pois o tipo short não comporta a possível precisão do tipo int
