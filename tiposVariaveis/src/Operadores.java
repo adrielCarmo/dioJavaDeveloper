@@ -74,5 +74,27 @@ public class Operadores {
         a = 6;
         resultado = a == b ? "verdade" : "falso"; // operacao utilizando o ternario
         System.out.println(resultado);
+
+        //OPERADORES RELACIONAIS
+
+        int n1,n2;
+        n1 = 6;
+        n2 = 5;
+
+        boolean result = n1 == n2;
+
+        result = n1 > n2; // o num1 é maior que o n2? saída: true
+        result = n1 < n2; // o num é menor que o n2? saída: false
+        result = n1 != n2; // o num1 é diferente do n2? saída: true
+        result = n1 >= n2; // o num1 é maior ou igual ao n1? saída: true
+        result = n1 <= n2; // o num1 é menor ou igual ao n2? saída: false
+
+        // no caso de objetos e textos, utilizamos comparacoes em metodos, como o equals por exemplo
+        String nome = "Adriel";
+        String nome2 = "Yann";
+
+        System.out.println(nome == nome2); // nao é indicado
+
+        System.out.println(nome.equals(nome2)); // forma indicada para comparar se os nomes sao iguais
     }
 }
