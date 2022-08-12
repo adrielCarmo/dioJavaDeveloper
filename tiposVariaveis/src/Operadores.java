@@ -44,5 +44,18 @@ public class Operadores {
         boolean verdadeiro = true;
 
         System.out.println("Inverteu " + !verdadeiro);
+
+        //fluxo de repetição
+        int num = 5;
+
+        num = num + 1; //atribur o valor que esta mais um
+
+        num++; // incrementando em mais uma unidade
+
+        System.out.println(num++); // aqui o valor antigo (antes da operação de incremento) será impresso
+
+        //System.out.println(num); // aqui sera impresso o valor atualizado, pois o programa imprime primeiro e depois faz a operação
+        System.out.println(++num);
+    
     }
 }
