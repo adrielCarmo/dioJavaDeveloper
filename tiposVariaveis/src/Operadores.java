@@ -56,6 +56,23 @@ public class Operadores {
 
         //System.out.println(num); // aqui sera impresso o valor atualizado, pois o programa imprime primeiro e depois faz a operação
         System.out.println(++num);
-    
+        
+        //OPERADOR TERNÁRIO
+        int a, b;
+
+        a = 5;
+        b = 6;
+        String resultado = "";
+        if (a == b) {
+            resultado = "verdade";
+        } else {
+            resultado = "falso";    
+        }
+
+        System.out.println(resultado);
+
+        a = 6;
+        resultado = a == b ? "verdade" : "falso"; // operacao utilizando o ternario
+        System.out.println(resultado);
     }
 }
