@@ -96,5 +96,20 @@ public class Operadores {
         System.out.println(nome == nome2); // nao é indicado
 
         System.out.println(nome.equals(nome2)); // forma indicada para comparar se os nomes sao iguais
+    
+        // operadores lógicos
+        boolean condicao1 = true;
+        boolean condicao2 = false;
+
+        if (condicao1 && condicao2) {
+            System.out.println("As duas condicoes sao verdadeiras!");
+        } else {
+            System.out.println("Alguma delas é falsa, ou todas sao falsas!");
+        }
+
+        if (condicao1 || condicao2) {
+            System.out.println("Alguma das condicoes sao verdadeiras, ou as duas sao verdadeiras");
+        }
+    
     }
 }
