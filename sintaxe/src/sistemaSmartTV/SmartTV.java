@@ -1,3 +1,5 @@
+package sistemaSmartTV;
+
 public class SmartTV {
     int volume, canal;
     boolean ligada;
