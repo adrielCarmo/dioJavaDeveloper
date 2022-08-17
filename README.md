@@ -4,26 +4,15 @@ www.dio.me
 #### Autores
 - [Adriel Carmo](https://github.com/adrielCarmo)
 
-## Sintaxe
+Repositório para exercitar e armazenar todo o conteúdo apresentado na Formação Java Developer, ofertada pela Digital Innovation One, ministrada pelo professor Gleyson Sampaio. Os temas abordados vão desde assuntos mais básicos (como regras de sintaxe), até o uso de Spring Framework, por exemplo.
 
-Repositório para exercitar todo o conteúdo apresentado no módulo de Sintaxe, sendo ele:
+Os módulos são divididos e ajustados numa ordem onde seja favorecida a compreensão da Linguagem JAVA por parte do aluno. Entre os temas variados, foram estudados:
 
-1. Anatomia de Classes
-2. Padrões de Nomenclatura
-3. Variáveis
-4. Identação
-5. Organizando arquivos
-6. Java Beans
-7. Tipos Primitivos
-8. Constantes
-9. Operadores (Atribuição, Aritméticos, Unários, Ternário, Relacionais e Lógicos)
-10. Métodos
-11. Escopo
-12. Palavras Reservadas
-13. Java Documentation
-14. Terminal e Argumentos
-15. Classe Scanner
+### Sintaxe
 
-Além disso, um Desafio de Projeto final: Simulando uma Conta Bancária pelo Terminal.
+### Estruturas de Controle
+
+### atualizando...
+
 # 💻 Let´s Bor@?
 
