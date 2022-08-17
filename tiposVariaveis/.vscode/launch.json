@@ -29,13 +29,8 @@
             "name": "Launch AboutMe",
             "request": "launch",
             "mainClass": "terminal.AboutMe",
+            "args": ["Adriel","Carmo", "19", "1.80"],
             "projectName": "tiposVariaveis_28547382"
-            "args": [
-                "Adriel",
-                "Carmo",
-                "19",
-                "1.80"
-            ]
         },
         {
             "type": "java",
