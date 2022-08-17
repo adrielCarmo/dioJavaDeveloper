@@ -25,5 +25,5 @@ Repositório para exercitar todo o conteúdo apresentado no módulo de Sintaxe, 
 15. Classe Scanner
 
 Além disso, um Desafio de Projeto final: Simulando uma Conta Bancária pelo Terminal.
-# Let´s Bor@?
+# 💻 Let´s Bor@?
 
