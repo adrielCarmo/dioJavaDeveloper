@@ -1,18 +1,29 @@
-## Getting Started
+# DIO - Formação Java Developer
+www.dio.me
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#### Autores
+- [Adriel Carmo](https://github.com/adrielCarmo)
 
-## Folder Structure
+## Sintaxe
 
-The workspace contains two folders by default, where:
+Repositório para exercitar todo o conteúdo apresentado no módulo de Sintaxe, sendo ele:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Anatomia de Classes
+2. Padrões de Nomenclatura
+3. Variáveis
+4. Identação
+5. Organizando arquivos
+6. Java Beans
+7. Tipos Primitivos
+8. Constantes
+9. Operadores (Atribuição, Aritméticos, Unários, Ternário, Relacionais e Lógicos)
+10. Métodos
+11. Escopo
+12. Palavras Reservadas
+13. Java Documentation
+14. Terminal e Argumentos
+15. Classe Scanner
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Além disso, um Desafio de Projeto final: Simulando uma Conta Bancária pelo Terminal.
+#### 💻 Let´s Bor@?
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
