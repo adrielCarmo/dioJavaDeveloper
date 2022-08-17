@@ -1,39 +1,29 @@
-# DIO - Trilha Java Básico
+# DIO - Formação Java Developer
 www.dio.me
 
 #### Autores
 - [Adriel Carmo](https://github.com/adrielCarmo)
 
-## Sintaxe - Desafio
+## Sintaxe
 
-Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
+Repositório para exercitar todo o conteúdo apresentado no módulo de Sintaxe, sendo ele:
 
-1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
-2. Dentro do projeto, crie a classe `ContaTerminal.java` para realizar toda a codificação do nosso programa.
+1. Anatomia de Classes
+2. Padrões de Nomenclatura
+3. Variáveis
+4. Identação
+5. Organizando arquivos
+6. Java Beans
+7. Tipos Primitivos
+8. Constantes
+9. Operadores (Atribuição, Aritméticos, Unários, Ternário, Relacionais e Lógicos)
+10. Métodos
+11. Escopo
+12. Palavras Reservadas
+13. Java Documentation
+14. Terminal e Argumentos
+15. Classe Scanner
 
-###### Revise sobre regras de declaração de variáveis
-
-| Atributo  | Tipo     | Exemplo   
-| --------- | ---------| ------- 
-| Numero    | Inteiro  | 1021 
-| Agencia   | Texto    | 067-8
-| Nome Cliente | Texto    | MARIO ANDRADE
-| Saldo | Decimal |237.48
-
-
-###### Revise sobre terminal, main args e a classe Scanner
-2. Permita que os dados sejam inseridos via terminal sendo que o usuário receberá a mensagem de qual informação será solicitada, exemplo:
-
-* Programa: "Por favor, digite o número da Agência !"
-* Usuário: 1021 *(depois ENTER para o próximo campo)* 
-
-###### Revise sobre concatenação e classe String com método concat
-
-3. Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
-
-*"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
-
-Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
-
-
+Além disso, um Desafio de Projeto final: Simulando uma Conta Bancária pelo Terminal.
+Let´s Bor@?
 
