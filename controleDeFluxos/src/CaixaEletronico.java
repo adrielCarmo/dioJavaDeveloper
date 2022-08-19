@@ -1,6 +1,7 @@
 public class CaixaEletronico {
     public static void main(String[] args) {
         
+        // exemplo para estrutura condicional SIMPLES:
         double saldo = 25.0;
         double valorSolicitado = 17.0;
 
